@@ -1,0 +1,16 @@
+{
+  "name": "threejs-font-generator",
+  "version": "1.0.0",
+  "description": "Generate fonts for use in threejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "msdf-bmfont": "file:./fixed_deps/msdf-bmfont-master"
+  }
+}
