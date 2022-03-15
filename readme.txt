@@ -8,6 +8,6 @@ To handle this, I've applied the changes and added the modified dependency to th
 
 opentype.js was also manually bumped to the latest 1.3.4 version since the old version was causing a build error: Unsupported GSUB table version.
 
-This project in its current state is being run on a windows 11 machine using Node v16.13.1
+This project in its current state is being run on a windows 10 machine using Node v16.13.1
 
 Just run: npm run start and all .ttf fonts inside the /fonts folder will be converted to .png and .json files located in the /output folder.
