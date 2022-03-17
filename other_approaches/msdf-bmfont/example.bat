@@ -1,0 +1,1 @@
+msdf-bmfont -s 140 -f json -o ./Montserrat-SemiBold.png -m 1024,1024 -t msdf ./Montserrat-SemiBold.ttf

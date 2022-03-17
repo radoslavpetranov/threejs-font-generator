@@ -1,0 +1,1 @@
+The generated JSON of this approach doesn't work with the THREEJS code that we use in the envato template
