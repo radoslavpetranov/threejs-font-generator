@@ -1,1 +1,0 @@
-msdf-atlas-gen.exe -font Montserrat-SemiBold.ttf -fontname Montserrat-SemiBold -type msdf -format png -dimensions 512 512 -json Montserrat-SemiBold.json -imageout Montserrat-SemiBold.png
